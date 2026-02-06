@@ -103,6 +103,5 @@ If the backend fails to start, check `DATABASE_URL` and that PostgreSQL has the 
 ## Docs
 
 - **docs/QUESTIONNAIRE_AGENT_TASKS.md** — Task scope and acceptance criteria.
-- **docs/IMPLEMENTATION_STATUS.md** — Implementation checklist vs the task doc.
 - **backend/README.md** — Backend structure and APIs.
 - **frontend/README.md** — Frontend screens and modules.
