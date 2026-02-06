@@ -1,2 +1,15 @@
 fastapi
-uvicorn
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+langchain-core
+langchain-openai
+langchain-postgres
+langchain-text-splitters
+langchain-community
+langchain-pymupdf4llm
+aiofiles
